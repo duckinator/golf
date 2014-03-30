@@ -1,0 +1,1 @@
+exit $*.uniq.size-1
