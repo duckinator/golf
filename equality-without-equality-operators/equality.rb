@@ -1,1 +1,1 @@
-exit $*.uniq.size-1
+exit$*.uniq.size-1
