@@ -1,1 +1,1 @@
-[(s=-(x=(z=[z].size)+y=z+z)+q=x*x+z)*q+y,z+f=q*q,l=f+q-y,l,o=l+x,_=q*x+y,(s+z)*q+s,o,o+x,l,f,_+z].map{|x|$><<x.chr}
+[(s=-(x=(z=[z].size)+y=z+z)+q=x*x+z)*q+y,z+f=q*q,l=f+q-y,l,O=l+x,_=q*x+y,(s+z)*q+s,O,O+x,l,f,_+z].map{|x|$><<x.chr}
